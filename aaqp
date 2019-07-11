@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+<channel>
+	<title><![CDATA[TNT(mp4)]]></title>
+	<description><![CDATA[<img src="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529361703236-Imagen.png">TNT ]]></description>
+	<stream_url><![CDATA[http://176.9.138.100:9999/live/APPcruel343fdD55/AH5vbJ7ZaI/48.ts]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[Warner(1080p)]]></title>
+	<description><![CDATA[<img src="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1548943157441-Imagen.jpg">Warner IPTV]]></description>
+	<stream_url><![CDATA[http://176.9.138.100:9999/live/APPcruel343fdD55/AH5vbJ7ZaI/50.ts]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[HBO]]></title>
+	<description><![CDATA[<img src="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1524752421749-Imagen.jpg">HBO IPTV]]></description>
+	<stream_url><![CDATA[http://176.9.138.100:9999/live/APPcruel343fdD55/AH5vbJ7ZaI/1.ts]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[FOX Comedy]]></title>
+	<description><![CDATA[<Fox Comedy ]]></description>
+	<stream_url><![CDATA[http://176.9.138.100:9999/live/APPcruel343fdD55/AH5vbJ7ZaI/156.ts]]></stream_url>
+</channel>
+</items>
