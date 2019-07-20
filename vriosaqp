@@ -1,1 +1,2156 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<items>
+<channel>
+    <title><![CDATA[A&E]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/38.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[TNT HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/48.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[TNT HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/170.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[TNT SERIES]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/49.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[TNT SERIES HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/171.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[SONY HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/60.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[SONY HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/203.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[WARNER]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/50.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[WARNER HD ]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/177.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[UNIVERSAL CHANNEL]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/59.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[UNIVERSAL CHANNEL]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/201.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[COMEDY CENTRAL HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/74.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[COMEDY CENTRAL HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/222.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[CONCERT CHANNEL HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/141.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[MTV HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/135.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[MTV HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/207.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[MTV HITS]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/136.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[MTV LIVE HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/137.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[HTV]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/37.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[HTV]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/149.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[K MUSICA]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/142.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[K MUSICA]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/142.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[AXN HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/58.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[AXN HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/199.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[FX HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/34.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[FX HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/169.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[FXM]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/33.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[FXM]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/241.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[AMC HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/73.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[AMC HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/221.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[SPACE HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/41.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[SPACE HD CL]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/154.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[PARAMOUNT HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/69.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[PARAMOUNT HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/216.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[THE FILM ZONE HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/64.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[THE FILM ZONE HD CL]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/208.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[TLC]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/118.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[TLC CL]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/246.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[SUNDANCE HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/53.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[SUNDANCE HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/185.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[TCM]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/57.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[TCM]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/198.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[HBO]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/1.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[HBO W]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/228.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[HBO 2 HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/15.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[HBO 2 HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/197.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[HBO FAMILY HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/17.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[HBO FAMILY HD ]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/168.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[HBO PLUS HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/16.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[HBO PLUS HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/147.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[HBO SIGNATURE HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/18.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[HBO SIGNATURE HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/214.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[FOX CINEMA HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/32.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[FOX CINEMA HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/180.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[FOX CLASSICS HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/31.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[FOX CLASSICS HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/179.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[FOX COMEDY HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/29.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[FOX COMEDY HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/156.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[FOX HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/35.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[FOX HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/213.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[FOX LIFE HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/36.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[FOX LIFE HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/175.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[FOX PREMIUN ACTION]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/28.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[FOX PREMIUN ACTION]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/232.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[FOX PREMIUN FAMILY]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/27.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[FOX PREMIUN FAMILY]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/231.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[FOX PREMIUN MOVIES]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/26.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[FOX PREMIUN MOVIES]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/230.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[FOX SERIES]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/30.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[FOXACTION HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/24.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[FOXACTION HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/148.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[FOXFAMILY HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/2.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[FOXFAMILY HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/146.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[FOXMOVIES HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/25.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[FOXMOVIES HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/165.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[FOX SERIES]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/239.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[CARTOON NETWORK HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/9.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[CARTOON NETWORK HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/173.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[BOOMERANG]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/10.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[BOOMERANG]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/186.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[DISNEY JR]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/3.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[DISNEY JR]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/150.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[DISNEY XD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/8.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[DISNEY XD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/172.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[NATGEO KIDS HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/6.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[NATGEO KIDS HD ]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/162.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[NATGEO WILD HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/106.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[NATGEO WILD HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/176.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[NICK JR HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/11.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[NICK JR HD CL]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/195.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[NICKELODEON HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/7.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[NICKELODEON HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/166.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[TOONCAST]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/12.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[TOONCAST]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/202.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[TOONCAST]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/202.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[TOONCAST]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/202.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[HOLATV HD]]></title>
+    <description></description>
+	<stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/43.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[HOLA TV HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/157.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[GLITZ]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/83.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[GLITZ CL]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/247.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[E!]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/61.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[E!]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/204.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[LIFETIME]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/51.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[LIFETIME]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/178.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[MASCHIC HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/71.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[MASCHIC HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/219.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[GOLDEN HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/45.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[GOLDEN HD CL]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/163.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[GOLDEN PLUS]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/81.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[GOLDEN PLUS]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/242.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[GOLDEN PREMIER HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/46.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[GOLDEN PREMIER HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/164.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[CINECANAL HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/20.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[CINECANAL HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/181.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[Cinema PPV 1 (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/456.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[Cinema PPV 2 (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/457.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[Cinema PPV 3 (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/458.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[Cinema PPV 4 (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/459.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[Cinema PPV 5 (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/460.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[Cinema PPV 6 (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/461.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[Cinema PPV 7 (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/462.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[Cinema PPV 8 (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/463.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[Cinema PPV 9 (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/464.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[Cinema PPV 10 (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/465.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[Cinema PPV 11 (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/466.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[Cinema PPV 12 (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/467.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[Cinema PPV 13 (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/468.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[Cinema PPV 14 (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/469.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[Cinema PPV 15 (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/470.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[Cinema PPV 16 (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/471.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[Cinema PPV 17 (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/472.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[Cinema PPV 18 (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/473.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[Cinema PPV 19 (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/474.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[Cinema PPV 20 (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/475.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[Cinema PPV 21 (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/476.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[Cinema PPV 22 (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/477.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[Cinema PPV 23 (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/478.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[Cinema PPV 24 (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/479.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[Cinema PPV 25 (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/480.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[Cinema PPV 26 (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/481.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[Cinema PPV 27 (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/482.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[Cinema PPV 28 (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/483.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[Cinema PPV 29 (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/484.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[Cinema PPV 30 (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/485.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[Cinema PPV 31 (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/486.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[ISAT]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/86.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[ISAT]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/250.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[MAX PRIME HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/67.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[MAX PRIME HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/211.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[MAX UP HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/56.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[MAX UP HD ]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/196.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[MULTIPREMIER]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/63.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[MULTIPREMIER]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/206.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[MP]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/85.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[MP ]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/249.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[CINELATINO]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/19.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[CINELATINO]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/174.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[CINEMA PLUS]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/23.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[CINEMA PLUS ]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/251.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[CINEMAX]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/21.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[CINEMAX ]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/200.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[FOX CINEMA HD (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/270.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[FOX CLASSICS HD (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/269.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[FOX COMEDY HD (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/267.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[FOX HD  (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/273.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[FOX LIFE HD  (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/274.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[FOX PREMIUN ACTION (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/266.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[FOX PREMIUN FAMILY  (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/265.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[FOX PREMIUN MOVIES  (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/264.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[FOX SERIES  (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/268.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[FOX SPORT 2 (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/358.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[FOX SPORTS (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/357.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[FOX SPORTS 3 (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/359.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[FOXACTION HD (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/262.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[FOXFAMILY HD  (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/341.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[FOXMOVIES HD  (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/263.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[FX HD (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/272.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[FXM (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/271.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[GOLDEN HD (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/283.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[GOLDEN PLUS (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/319.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[GOLDEN PREMIER HD (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/284.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[GOURMET HD (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/290.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[HBO (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/252.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[HBO 2 HD (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/253.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[HBO FAMILY HD  (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/255.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[HBO PLUS HD  (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/254.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[HBO SIGNATURE HD (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/256.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[DE PELICULA]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/84.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[DE PELICULA  CL]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/248.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[DHE HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/119.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[GOURMET HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/52.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[GOURMET HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/184.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[VH1]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/140.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[VH1 CLASSIC]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/139.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[VH1 CLASSIC]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/139.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[WIN SPORTS]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/122.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[WIN SPORTS]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/229.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[A&E (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/276.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[AMC HD  (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/311.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[ANIMAL PLANET HD (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/380.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[AXN HD (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/296.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[CARTOON NETWORK HD (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/348.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[CINECANAL HD  (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/258.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[CLARO HD  (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/316.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[CLARO SPORT  (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/356.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[COMEDY CENTRAL HD (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/312.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[CONCERT CHANNEL HD (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/391.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[DHE HD (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/383.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[MASCHIC HD (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/309.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[MAX PRIME HD (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/305.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[MAX UP HD  (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/294.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[MTV HD  (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/385.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[MTV LIVE HD (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/387.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[NATGEO KIDS HD (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/345.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[NATGEO WILD HD (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/370.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[NICK 2 (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/353.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[NICKELODEON HD (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/346.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[PARAMOUNT HD (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/307.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[SONY HD (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/298.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[SPACE HD (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/279.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[SUNDANCE HD (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/291.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[TNT HD (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/286.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[TNT SERIES HD (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/287.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[TRUTV HD  (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/381.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[UNIVERSAL CHANNEL (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/297.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[CINE PPV | 01]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/627.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[CINE PPV | 02]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/628.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[CINE PPV | 03]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/629.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[CINE PPV | 04]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/630.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[CINE PPV | 05]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/631.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[WIN SPORTS (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/355.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[24/7 Bugs bunny]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/675.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[24/7 El auto fantástico]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/678.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[24/7 El chavo animado]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/674.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[24/7 Gasparin]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/681.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[24/7 Las tortugas ninjas]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/683.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[24/7 Loonytoons]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/684.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[24/7 Los 3 chiflados]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/685.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[24/7 PELÍCULAS CLÁSICAS]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/688.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[24/7 PELÍCULAS CLÁSICAS 10]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/689.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[24/7 PELÍCULAS CLÁSICAS 2 ]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/690.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[24/7 PELÍCULAS CLÁSICAS 3 ]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/691.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[24/7 PELÍCULAS CLÁSICAS 4 ]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/692.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[24/7 PELÍCULAS CLÁSICAS 5 ]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/693.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[24/7 PELÍCULAS CLÁSICAS 6]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/694.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[24/7 PELÍCULAS CLÁSICAS 8 ]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/696.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[24/7 PELÍCULAS CLÁSICAS 9]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/697.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[24/7 Thundercats ]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/699.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[24/7 WALKIN DEAD (USA)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/700.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[24/7 WALKIN DEAD (USA)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/700.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[24/7 WALKIN DEAD (USA)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/700.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[Max Up ]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/710.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[Max Prime]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/709.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[FMHOT]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/708.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[Extrema TV]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/707.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[CNN ESPANOL]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/54.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[CNN ESPANOL CL]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/187.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[CNN INTERNACIONAL]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/39.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[CNN INTERNACIONAL CL]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/152.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[CNN INTERNACIONAL CL]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/152.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[CNN INTERNACIONAL CL]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/152.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[CLARO CINEMA]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/47.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[CLARO CINEMA CL]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/167.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[DISCOVERY CHANNEL HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/113.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[DISCOVERY CHANNEL HD CL]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/192.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[DISCOVERY CIVILIZATION]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/112.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[DISCOVERY CIVILIZATION CL]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/191.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[DISCOVERY HOME HEALTH HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/114.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[DISCOVERY HOME HEALTH HD ]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/193.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[DISCOVERY KIDS HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/5.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[DISCOVERY KIDS HD ]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/161.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[DISCOVERY SCIENCE]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/104.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[DISCOVERY SCIENCE CL]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/158.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[DISCOVERY THEATER HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/107.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[DISCOVERY THEATER HD CL]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/182.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[DISCOVERY TURBO]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/105.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[DISCOVERY TURBO CL]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/160.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[DISCOVERY WORLD HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/108.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[DISCOVERY WORLD HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/183.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[H2]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/110.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[H2]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/189.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[INVESTIGATION DISCOVERY [DUAL]]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/115.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[INVESTIGATION DISCOVERY [DUAL]]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/243.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[INVESTIGATION DISCOVERY [DUAL]]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/243.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[CABLENOTICIAS]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/91.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[CLARO HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/78.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[CLARO HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/225.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[ANIMAL PLANET HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/116.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[ANIMAL PLANET HD CL]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/218.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[AZCORAZON HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/223.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[AZMUNDO HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/62.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[AZMUNDO HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/205.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[BABYTV]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/13.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[BABYTV]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/224.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[BBC WORLD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/44.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[BBC WORLD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/159.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[BBC WORLD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/159.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[CLARO SPORT]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/123.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[CLARO SPORT ]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/235.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[ESPN]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/128.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[ESPN]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/244.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[ESPN 2]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/129.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[ESPN 3]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/130.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[EWTN]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/103.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[FOX SPORT 2]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/125.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[FOX SPORT 2 ]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/238.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[FOX SPORTS]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/124.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[FOX SPORTS 3]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/126.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[FOX SPORTS 3]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/237.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[FOX SPORTS]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/236.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[FOXNEWS]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/40.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[FOXNEWS]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/153.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[GOLF LATIN AMERICA]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/127.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[GOLF LATIN AMERICA]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/240.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[GOLF LATIN AMERICA]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/240.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[PERU | GOL PERU]]>.</title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/824.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[GOL TV]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/906.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[DEPORTE HD TYC SPORTS]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/889.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[DEPORTE HD | FOX SPORTS MEXICO (720)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/879.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[DEPORTE HD | FOX SPORTS 3]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/876.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[DEPORTE HD | FOX DEPORTES]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/868.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[DEPORTE HD | EuroSport2 (ESP)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/867.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[DEPORTE HD | CDO PREMIUM]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/866.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[DEPORTE HD | BEIN SPORTS 9]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/864.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[DEPORTE HD | BEIN SPORTS 1]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/855.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[DEPORTE HD | Directv Sports (1080)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/790.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[DEPORTE HD | Directv Sports]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/789.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[DEPORTE HD | CDO BASICO ]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/788.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[DEPORTE HD | CDF BÁSICO]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/787.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[DEPORTE HD | CDF (CL)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/786.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[Televisa Deportes Network TDN]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/732.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[DEPORTES FOX DEPORTES]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/650.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[DEPORTES PREMIER CLUBES]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/662.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[URUGUAY VTV HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/825.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[ECUADOR CNT SPORTS GOL TV]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/813.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[CHILE TVN HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/810.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[ARGENTINA_HD TNT SPORTS]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/814.ts]]></stream_url>
+</channel>
+
+
+
+
+
+
+<channel>
+    <title><![CDATA[ANTV]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/100.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[ARIRANG]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/95.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[ARIRANG]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/95.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[AZCORAZON HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/75.ts]]></stream_url>
+</channel>
+
+<channel>
+    <title><![CDATA[IBERO]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/92.ts]]></stream_url>
+</channel>
+
+<channel>
+    <title><![CDATA[CANAL CLARO HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/70.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[CANAL CLARO HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/217.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[CANAL DE LAS ESTRELLAS]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/66.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[CANAL DE LAS ESTRELLAS]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/210.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[CANAL TRO]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/101.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[CARACOL]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/77.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[CARACOL HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/76.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[CARACOL HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/233.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[CINEMA DINAMITA]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/22.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[CINEMA DINAMITA ]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/212.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[CITY NOTICIAS]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/97.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[DW]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/131.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[DW AMERICA]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/132.ts]]></stream_url>
+</channel>
+
+<channel>
+    <title><![CDATA[TELEANTIOQUIA]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/98.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[TELECAFE]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/99.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[TELEMUNDO]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/42.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[TELEMUNDO ]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/155.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[TELEMUNDO INTERNACIONAL]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/82.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[TELEMUNDO INTERNACIONAL]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/245.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[TELEPACIFICO]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/79.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[TELEPACIFICO ]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/226.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[TLNOVELAS]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/55.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[TLNOVELAS ]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/194.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[PASIONES HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/65.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[PASIONES HD ]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/209.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[RADIOLA]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/144.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[RAI]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/134.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[RAI ITALIA]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/133.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[RCN TELENOVELAS]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/72.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[RCN TELENOVELAS ]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/220.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[RED HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/90.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[RED HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/90.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[RED HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/90.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[RED HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/90.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[TRUTV HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/117.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[TRUTV HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/234.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[TRUTV HD ]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/234.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[VALLENATO]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/143.ts]]></stream_url>
+</channel>
+
+<channel>
+    <title><![CDATA[AZCORAZON HD  (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/313.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[AZMUNDO HD  (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/300.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[CABLENOTICIAS (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/329.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[CANAL CLARO HD (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/308.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[CARACOL HD  (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/314.ts]]></stream_url>
+</channel>
+
+<channel>
+    <title><![CDATA[DISCOVERY CHANNEL HD (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/377.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[DISCOVERY HOME HEALTH HD (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/378.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[DISCOVERY KIDS HD (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/344.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[DISCOVERY THEATER HD (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/371.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[DISCOVERY WORLD HD (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/372.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[DISNEY HD (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/343.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[ESPN  (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/361.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[ESPN 2 (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/362.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[ESPN 2 (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/362.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[HOLA TV HD (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/281.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[INVESTIGATION DISCOVERY [DUAL]  (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/379.ts]]></stream_url>
+</channel>
+
+<channel>
+    <title><![CDATA[PASIONES HD (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/303.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[RED HD (1080p)]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/328.ts]]></stream_url>
+</channel>
+
+
+
+
+<channel>
+    <title><![CDATA[ARGENTINA_HD TELEMUNDO]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/815.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[ARGENTINA_HD GOURMET]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/817.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[COLOR VICION 9 RD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/771.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[Colombia Caracol]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/716.ts]]></stream_url>
+</channel>
+
+<channel>
+    <title><![CDATA[MX Canal 5]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/828.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[MX Ultra TV Puebla]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/852.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[MX Ultra TV Aguas calientes]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/851.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[MX Telemar Campeche]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/849.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[MX Teleformula]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/848.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[MX SQCS Chetumal]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/847.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[MX RTQ Queretaro]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/846.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[MX RCG 3 Saltillo]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/845.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[MX Canal Once Mexico City]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/841.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[MX CANAL DE LAS ESTRELLAS UHD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/839.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[MX Canal 4 Saltillo]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/837.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[MX Canal 15 Zacatecas]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/836.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[MX Canal 10 Chiapas]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/835.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[MX Canal 10 Cancun]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/834.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[MX Azteca 7 SD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/831.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[MX 15TV Sabinas]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/829.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[MEXICO VIP IMAGEN TV HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/642.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[MEXICO VIP NU9VE HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/643.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[MEXICO VIP CANAL U ]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/641.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[CRISTOVISION]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/93.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[DATAIFX]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/102.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[ENLACE]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/94.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[ESNE]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/96.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[TV AGRO HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/120.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[TV5]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://176.9.138.100:9999/live/wJpCui0Ja956e44/wJpCui0Ja9/89.ts]]></stream_url>
+</channel>
+
+</items>
