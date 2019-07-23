@@ -1,47 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <items>
 <channel>
-    <title><![CDATA[ 1 Fox Premium Movies HD]]></title>
+    <title><![CDATA[1 Fox Premium Movies HD]]></title>
     <description></description>
     <stream_url><![CDATA[http://zulytv.xyz:25461/appmundocrueo387261/dEhvxidrDB/67]]></stream_url>
 </channel>
 <channel>
-    <title><![CDATA[Fox Action ]]></title>
+    <title><![CDATA[1 Fox Action ]]></title>
     <description></description>
     <stream_url><![CDATA[http://zulytv.xyz:25461/appmundocrueo387261/dEhvxidrDB/70]]></stream_url>
 </channel>
 <channel>
-    <title><![CDATA[Fox Series HD]]></title>
+    <title><![CDATA[1 Fox Series HD]]></title>
     <description></description>
     <stream_url><![CDATA[http://zulytv.xyz:25461/appmundocrueo387261/dEhvxidrDB/72]]></stream_url>
 </channel>
 <channel>
-    <title><![CDATA[Fox Classics HD]]></title>
+    <title><![CDATA[1 Fox Classics HD]]></title>
     <description></description>
     <stream_url><![CDATA[http://zulytv.xyz:25461/appmundocrueo387261/dEhvxidrDB/71]]></stream_url>
 </channel>
 <channel>
-    <title><![CDATA[HBO HD]]></title>
+    <title><![CDATA[2 HBO HD]]></title>
     <description></description>
     <stream_url><![CDATA[http://zulytv.xyz:25461/appmundocrueo387261/dEhvxidrDB/64]]></stream_url>
 </channel>
 <channel>
-    <title><![CDATA[HBO 2 HD]]></title>
+    <title><![CDATA[2 HBO 2 HD]]></title>
     <description></description>
     <stream_url><![CDATA[http://zulytv.xyz:25461/appmundocrueo387261/dEhvxidrDB/66]]></stream_url>
 </channel>
 <channel>
-    <title><![CDATA[HBO Family]]></title>
+    <title><![CDATA[2 HBO Family]]></title>
     <description></description>
     <stream_url><![CDATA[http://zulytv.xyz:25461/appmundocrueo387261/dEhvxidrDB/65]]></stream_url>
 </channel>
 <channel>
-    <title><![CDATA[Warner Channel]]></title>
+    <title><![CDATA[3 Warner Channel]]></title>
     <description></description>
     <stream_url><![CDATA[http://zulytv.xyz:25461/appmundocrueo387261/dEhvxidrDB/68]]></stream_url>
 </channel>
 <channel>
-    <title><![CDATA[Movistar Series]]></title>
+    <title><![CDATA[*Movistar Series]]></title>
     <description></description>
     <stream_url><![CDATA[http://zulytv.xyz:25461/appmundocrueo387261/dEhvxidrDB/60]]></stream_url>
 </channel>
@@ -372,8 +372,15 @@
     <description></description>
 	<stream_url><![CDATA[http://zulytv.xyz:25461/appmundocrueo387261/dEhvxidrDB/43]]></stream_url>
 </channel>
+
 <channel>
-    <title><![CDATA[Telemundo  Entretenimiento]]></title>
+    <title><![CDATA[Caza y Pesca]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://zulytv.xyz:25461/appmundocrueo387261/dEhvxidrDB/51]]></stream_url>
+</channel>
+
+<channel>
+    <title><![CDATA[Telemundo * - Entretenimiento]]></title>
     <description></description>
     <stream_url><![CDATA[http://zulytv.xyz:25461/appmundocrueo387261/dEhvxidrDB/45]]></stream_url>
 </channel>
