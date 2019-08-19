@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+
+<channel>
+    <title><![CDATA[Bandamax  Musicales]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://zulytv.xyz:25461/MgOdKfQw9C/m1kAwHqSpo/126]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[Concert Channel Musicales]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://zulytv.xyz:25461/MgOdKfQw9C/m1kAwHqSpo/124]]></stream_url>
+</channel>
+
+<channel>
+    <title><![CDATA[MTV HD]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://zulytv.xyz:25461/MgOdKfQw9C/m1kAwHqSpo/105]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[Frecuencia Musical]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://streaminglivehd.com:1935/8056/8056/playlist.m3u8?fluxustv.m3u8]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[Portal FoxMix]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[Musicc Play MC]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8]]></stream_url>
+</channel>
+
+<channel>
+    <title><![CDATA[MTV]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://kingtv.space:9999/live/antraxsd/nSNERYlxgT/2971.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[MTV HIts]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://kingtv.space:9999/live/antraxsd/nSNERYlxgT/2902.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[MTV Live]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://kingtv.space:9999/live/antraxsd/nSNERYlxgT/582.ts]]></stream_url>
+</channel>
+<channel>
+    <title><![CDATA[VH1]]></title>
+    <description></description>
+    <stream_url><![CDATA[http://kingtv.space:9999/live/antraxsd/nSNERYlxgT/2905.ts]]></stream_url>
+</channel>
+
+</items>
